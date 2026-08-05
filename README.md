@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer specializing in **React.js** and **Next.js**, building clean, responsive, and user-friendly web applications. Currently working remotely with **NogaTech IT Solutions LLC** (Honolulu, Hawaii), integrating UI components with backend APIs across a 12+ hour timezone gap.
+Web Developer specializing in **React.js** and **Next.js**, building clean, responsive, and user-friendly web applications. Currently working remotely with **NogaTech IT Solutions LLC** (Honolulu, Hawaii), integrating UI components with backend APIs across a 12+ hour timezone gap.
 
 > Open to international opportunities — onsite, hybrid, or remote — especially in **Japan 🇯🇵**, **Germany 🇩🇪**, and across **Europe 🌍**.
 
